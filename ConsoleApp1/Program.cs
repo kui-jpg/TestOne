@@ -13,7 +13,8 @@ namespace ConsoleApp1
             int a = 2;
             Console.WriteLine("Hello World!");
             Console.WriteLine("heiheiheihei");
-            Console.WriteLine("this is Test One");
+            Console.WriteLine("this is Test One ");
+            Console.WriteLine("这时第二个变更点");
             Console.WriteLine(a+++1);
             Console.WriteLine(++a);
         }
