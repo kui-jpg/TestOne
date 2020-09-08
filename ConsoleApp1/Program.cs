@@ -15,7 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("heiheiheihei");
             Console.WriteLine("this is Test One ");
             Console.WriteLine("这时第二个变更点");
-            Console.WriteLine("这时第二个变更点");
+            Console.WriteLine("这时第三个变更点");
+            Console.WriteLine("新的推送");
             Console.WriteLine(a+++1);
             Console.WriteLine(++a);
         }
