@@ -12,7 +12,8 @@ namespace ConsoleApp1
             MyName = "kuikui";
             int a = 2;
             Console.WriteLine("Hello World!");
-            Console.WriteLine("heiheiheihei"); 
+            Console.WriteLine("heiheiheihei");
+            Console.WriteLine("this is Test One");
             Console.WriteLine(a+++1);
             Console.WriteLine(++a);
         }
